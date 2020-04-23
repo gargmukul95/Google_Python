@@ -1,0 +1,6 @@
+May 27 11:45:40 ubuntu.local ticky: INFO: Created ticket [#1234] (mukul)
+Jun 1 11:06:48 ubuntu.local ticky: ERROR: Connection to DB failed (parul)
+May 28 11:45:40 ubuntu.local ticky: INFO: Created ticket [#1234] (mukul)
+Jun 10 11:06:48 ubuntu.local ticky: ERROR: Connection to DB failed (mili)
+May 27 11:45:40 ubuntu.local ticky: INFO: Created ticket [#1234] (parul)
+Jun 1 11:06:48 ubuntu.local ticky: ERROR: Connection failed (mukul)
