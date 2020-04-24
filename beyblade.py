@@ -1,6 +1,6 @@
 def main():
     T = int(input())
-    while T > 1:
+    while T > 0:
         T -= 1
         count = 0
         k = 0
